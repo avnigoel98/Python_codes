@@ -1,0 +1,50 @@
+Applications:
+1) develop AI Applications
+2) build websites -> python frameworks(Django, flask)
+3) develop games, program robots
+
+compiler
+
+
+
+# datatypes
+numbers - integers (int)
+decimal numbers - float 
+alphabet - character (char)
+group of alphabet(word) -> string(str)
+true / false - boolean
+
+
+syntax
+
+
+container - variables
+
+
+# in-built modules
+# user-defined modules
+
+
+pip install "module_name"
+
+
+
+interpreter / compiler
+
+
+
+comments - in-code documentation
+#
+'''    '''
+
+
+
+OPERATORS
+
+1) airthmatic operators
++ , -, *, /, %
+
+2) Assignment operators
+ = , == (equal),!= (not equal), +=, -=, *=, /=
+
+
