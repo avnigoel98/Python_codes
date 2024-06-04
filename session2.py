@@ -55,13 +55,50 @@
 
 #indexing
 #        012345678910...........
-fruit = "avni@gmail.com"
+# fruit = "avni@gmail.com"
 
-# [start index : end index - 1 : skip ]
-print(fruit[0:10])  
+# # [start index : end index - 1 : skip ]
+# print(fruit[0:10])  
 
 # task
 # take a user input for a user email address and fetch out the name of the person from the email
 # length of the user name should be 5 letters only.
 
+
+# string functions
+#       0123456
+# name = "harry is learning is python"
+# print(name.endswith("abcds"))
+# print(name.count('python'))
+# print(name.capitalize())
+# print(name.find("is")) # gives the first occurance of the word or character, if not present then -1
+# print(name.replace("python" , "Java"))
+
+# print(len(name))
+
+
+# # Write a program to fill in a letter template gievn below with name and date
+
+# letter =  '''
+#         Dear <|NAME|>,
+#         you are selected!
+#         <|DATE|>
+#     '''
+
+# # to detect the double spaces in a string
+# st = "This is a string with  double    spaces"
+# # replace the double spaces with single spaces
+
+# doubleSpace = st.find("  ")
+# print(doubleSpace)
+
+# space = st.replace("  " , " ")
+# print(space)
+
+
+# Escape characters  -  \n , \t
+
+letter =  "Dear harry, \n\tyou are selected! \nRegards"
+
+print(letter)
 

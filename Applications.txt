@@ -45,6 +45,16 @@ OPERATORS
 + , -, *, /, %
 
 2) Assignment operators
- = , == (equal),!= (not equal), +=, -=, *=, /=
+ = , +=, -=, *=, /=
+
+
+3)
+Comparison operators
+
+> , < , >=, <=,  == (equal),!= (not equal),
+
+
+4) logical operators
+and or not 
 
 
